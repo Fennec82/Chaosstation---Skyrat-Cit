@@ -34,7 +34,7 @@ GLOBAL_LIST_INIT(combat_music_options, list( // Skyrat addition
 	var/path
 	var/vr_path
 	var/default_slot = 1				//Holder so it doesn't default to slot 1, rather the last one used
-	var/max_save_slots = 30 //skyrat-edit
+	var/max_save_slots = 100 //Skyrat edit - 30 //Chaosstation edit - 100
 
 	//non-preference stuff
 	var/muted = 0
