@@ -38,5 +38,5 @@
 	implants = list(/obj/item/implant/mindshield)
 
 /datum/job/brig_physician/radio_help_message(mob/M)
-	to_chat(M, "<span class='userdanger'>You are a medical doctor stationed in Security. You are not to arm yourself or use weapons as it would break your medical oath.</span>")
-	to_chat(M, "<span class='userdanger'>Your main priority is to heal the injured Security members and prisoners.</span>")
+	to_chat(M, "<span class='userdanger'>You are a medical doctor stationed in Security. Your main priority is to heal injured Security agents and prisoners.</span>")
+	to_chat(M, "<span class='userdanger'>While you are a member of security, you are not an officer. You do not hold power of arrest. You should only arm yourself in emergencies or when there is no other security on shift.</span>")
