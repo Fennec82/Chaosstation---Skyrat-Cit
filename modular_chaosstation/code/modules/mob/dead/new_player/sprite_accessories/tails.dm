@@ -23,13 +23,13 @@
 	color_src = MATRIXED
 	matrixed_sections = MATRIX_RED_GREEN
 
-/datum/sprite_accessory/tails/mam_tails/blade //Ported from Vorestation
+/datum/sprite_accessory/tails/mam_tails/blade //Ported from VOREstation
 	name = "Blade"
 	icon_state = "blade"
 	icon = 'modular_chaosstation/icons/mob/mam_tails.dmi'
 	color_src = MUTCOLORS
 
-/datum/sprite_accessory/tails_animated/mam_tails_animated/blade //Ported from Vorestation
+/datum/sprite_accessory/tails_animated/mam_tails_animated/blade //Ported from VOREstation
 	name = "Blade"
 	icon_state = "blade"
 	icon = 'modular_chaosstation/icons/mob/mam_tails.dmi'
