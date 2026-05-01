@@ -5,30 +5,30 @@
 /datum/sprite_accessory/tails/mam_tails/zorgoia //Ported from ARFS-Coyote
 	name = "Zorgoia"
 	icon_state = "zorgoia"
-	icon = 'modular_chaosstation/icons/mob/mam_tails.dmi'
+	icon = "modular_chaosstation/icons/mob/mam_tails.dmi"
 	color_src = MATRIXED
 
 /datum/sprite_accessory/tails/mam_tails/fennecdown //Ported from ARFS-Coyote
 	name = "Downward Fennec Tail"
 	icon_state = "downwardfennec"
-	icon = 'modular_chaosstation/icons/mob/mam_tails.dmi'
+	icon = "modular_chaosstation/icons/mob/mam_tails.dmi"
 	color_src = MATRIXED
 
 /datum/sprite_accessory/tails/human/fennecdown //Ported from ARFS-Coyote
 	name = "Downward Fennec Tail"
 	icon_state = "downwardfennec"
-	icon = 'modular_chaosstation/icons/mob/mam_tails.dmi'
+	icon = "modular_chaosstation/icons/mob/mam_tails.dmi"
 	color_src = MATRIXED
 
 /datum/sprite_accessory/tails/mam_tails/blade //Ported from VOREstation
 	name = "Blade"
 	icon_state = "blade"
-	icon = 'modular_chaosstation/icons/mob/mam_tails.dmi'
+	icon = "modular_chaosstation/icons/mob/mam_tails.dmi"
 	color_src = MUTCOLORS
 
 /datum/sprite_accessory/tails_animated/mam_tails_animated/blade //Ported from VOREstation
 	name = "Blade"
 	icon_state = "blade"
-	icon = 'modular_chaosstation/icons/mob/mam_tails.dmi'
+	icon = "modular_chaosstation/icons/mob/mam_tails.dmi"
 	color_src = MUTCOLORS
 //Sandstorm ports end

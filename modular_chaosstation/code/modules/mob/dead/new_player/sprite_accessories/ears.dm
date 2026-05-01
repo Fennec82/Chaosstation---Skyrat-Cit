@@ -5,6 +5,6 @@
 /datum/sprite_accessory/ears/mam_ears/zorgoia //Ported from ARFS-Coyote
 	name = "Zorgoia"
 	icon_state = "zorgoia"
-	icon = 'modular_chaosstation/icons/mob/mam_ears.dmi'
+	icon = "modular_chaosstation/icons/mob/mam_ears.dmi"
 	color_src = MATRIXED
 //Sandstorm ports end
