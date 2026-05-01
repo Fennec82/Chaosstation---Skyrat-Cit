@@ -7,21 +7,18 @@
 	icon_state = "zorgoia"
 	icon = 'modular_chaosstation/icons/mob/mam_tails.dmi'
 	color_src = MATRIXED
-	matrixed_sections = MATRIX_ALL
 
 /datum/sprite_accessory/tails/mam_tails/fennecdown //Ported from ARFS-Coyote
 	name = "Downward Fennec Tail"
 	icon_state = "downwardfennec"
 	icon = 'modular_chaosstation/icons/mob/mam_tails.dmi'
 	color_src = MATRIXED
-	matrixed_sections = MATRIX_RED_GREEN
 
 /datum/sprite_accessory/tails/human/fennecdown //Ported from ARFS-Coyote
 	name = "Downward Fennec Tail"
 	icon_state = "downwardfennec"
 	icon = 'modular_chaosstation/icons/mob/mam_tails.dmi'
 	color_src = MATRIXED
-	matrixed_sections = MATRIX_RED_GREEN
 
 /datum/sprite_accessory/tails/mam_tails/blade //Ported from VOREstation
 	name = "Blade"
